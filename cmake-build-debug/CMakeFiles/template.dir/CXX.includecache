@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/stacks.hpp
+cstddef
+-
+utility
+-
+stdexcept
+-
+
+/home/atrum/CLionProjects/lab-04-stack-Frumka/sources/stacks.cpp
+stacks.hpp
+-
+

@@ -1,0 +1,5 @@
+/home/atrum/CLionProjects/lab-04-stack-Frumka/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/atrum/CLionProjects/lab-04-stack-Frumka/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/atrum/CLionProjects/lab-04-stack-Frumka/cmake-build-debug/CMakeFiles/test.dir
+/home/atrum/CLionProjects/lab-04-stack-Frumka/cmake-build-debug/CMakeFiles/lab-04-stack-Frumka.dir
+/home/atrum/CLionProjects/lab-04-stack-Frumka/cmake-build-debug/CMakeFiles/tests.dir

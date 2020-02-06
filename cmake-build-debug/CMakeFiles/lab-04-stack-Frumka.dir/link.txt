@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblab-04-stack-Frumkad.a  CMakeFiles/lab-04-stack-Frumka.dir/sources/stacks.cpp.o
+/usr/bin/ranlib liblab-04-stack-Frumkad.a

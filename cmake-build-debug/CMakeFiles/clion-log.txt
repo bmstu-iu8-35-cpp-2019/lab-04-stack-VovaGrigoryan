@@ -1,0 +1,9 @@
+/home/atrum/Документы/CLion-2018.3.4/clion-2018.3.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/atrum/CLionProjects/lab-04-stack-Frumka
+-- [hunter] Calculating Toolchain-SHA1
+-- [hunter] Calculating Config-SHA1
+-- [hunter] HUNTER_ROOT: /home/atrum/.hunter
+-- [hunter] [ Hunter-ID: 9a3594a | Toolchain-ID: dffde48 | Config-ID: 48401e9 ]
+-- [hunter] GTEST_ROOT: /home/atrum/.hunter/_Base/9a3594a/dffde48/48401e9/Install (ver.: 1.8.0-hunter-p11)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/atrum/CLionProjects/lab-04-stack-Frumka/cmake-build-debug
